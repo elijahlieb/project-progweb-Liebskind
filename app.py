@@ -19,3 +19,7 @@ def get_items():
 if __name__ == '__main__':
     # Écoute sur toutes les interfaces réseau, port 8080
     app.run(host='0.0.0.0', port=8080)
+
+a= 1
+if 0 == a:
+    a +=1
